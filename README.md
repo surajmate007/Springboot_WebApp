@@ -94,6 +94,3 @@ Springboot_WebApp-main/
 - Add more encryption algorithms (e.g., RSA, DES, Blowfish)
 - Implement user authentication for secure access
 - Store encrypted messages in a database
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
